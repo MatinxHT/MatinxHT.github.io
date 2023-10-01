@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      解一维无限深势阱
+subtitle:   解定态薛定谔方程
+date:       2020-03-12
+author:     MartinHung
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - 量子力学
+---
+
+##前言
+定态薛定谔方程求解：
+
+## 正文
+假设粒子在一维势场中运动，势场满足：
+$ U(x)=0,0\leq x\leq a $
+
+
+
