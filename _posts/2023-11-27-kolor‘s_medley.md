@@ -4,7 +4,7 @@ title:      Kolor’s Medley Cover by Aly @不求人
 subtitle:   過客,大吟釀,可再遇見,雲圖,時差,追求,愚公,公路之星,天地無用,無名,海底隧道,可再遇見again
 date:       2023-11-27
 author:     MartinHung
-header-img: img/post-bg-cook.jpg
+header-img: img/post-bg-kolortouchdown2023.jpg
 catalog: true
 tags:
     - Kolor
